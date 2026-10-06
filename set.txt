@@ -1,7 +1,8 @@
-G - groupId - community name or group name of the artifact
+   G - groupId - community name or group name of the artifact
    A - artifactId - actual name of the artifact
    V - version - unique identification of the artifact
                   * SNAPSHOT version: Development and Testing phase
                       eg: 1.0-snapshot, 2.0-snapshot
                   * RELEASE version: Ready to go live
-                      eg: 1.0, 2.0 etc
+                  just try to how to file add and deleting in github 
+how much my typing skill is now and one day my brolther was asked me can you  do the typing fast 
