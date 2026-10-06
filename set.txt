@@ -1,0 +1,7 @@
+G - groupId - community name or group name of the artifact
+   A - artifactId - actual name of the artifact
+   V - version - unique identification of the artifact
+                  * SNAPSHOT version: Development and Testing phase
+                      eg: 1.0-snapshot, 2.0-snapshot
+                  * RELEASE version: Ready to go live
+                      eg: 1.0, 2.0 etc
